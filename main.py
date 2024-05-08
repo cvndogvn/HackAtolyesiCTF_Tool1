@@ -1,5 +1,5 @@
 import hashlib
-
+# Coded by @cvndogvn
 flag = 0
 counter = 0
 
