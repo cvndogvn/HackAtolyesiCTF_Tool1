@@ -5,4 +5,4 @@ Bitirme projemiz olan Hack Atolyesi projemizin 2. uygulaması olan CTF yarışma
 
 **Script her türlü geliştirmeye açıktır**
 
-[Bağlantı](https://bgt.fsm.edu.tr/etkinlik/Hack-Atolyesi-Phishing-Brute-Force-Sql-Injection-Privilege-Escalation-DDOS2024-05-06-15-25-03pm)
+[Proje hakkında detaylı bilgi için tıkla](https://bgt.fsm.edu.tr/etkinlik/Hack-Atolyesi-Phishing-Brute-Force-Sql-Injection-Privilege-Escalation-DDOS2024-05-06-15-25-03pm)
